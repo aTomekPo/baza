@@ -1,0 +1,2 @@
+# baza
+ aplikacja rozwojowa
